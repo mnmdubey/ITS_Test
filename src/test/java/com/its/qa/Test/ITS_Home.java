@@ -11,10 +11,8 @@ public class ITS_Home {
 		System.out.println("ITS_Home - This is Runninbg from GIT Hub");
 		//Added by MD from GIT - End
 		
-//		for(int i=1; i<10; i++){
-//		System.out.println("ITS_Home - Test2");
-//		}
-
-		
+		for(int i=1; i<5; i++){
+		System.out.println("ITS_Home - Test2");
+		}
 	}
 }
