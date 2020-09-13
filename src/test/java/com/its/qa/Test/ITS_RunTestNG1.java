@@ -1,6 +1,6 @@
 package com.its.qa.Test;
 
-import org.testng.annotations.Test;
+//import org.testng.annotations.Test;
 
 public class ITS_RunTestNG1 {
 	
